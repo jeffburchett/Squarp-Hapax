@@ -12,3 +12,7 @@
 <h3>Access Virus TI2 61-key keyboard synthesizer</h3>
 
 <p>Spot-tested and working on firmware 5.1.7.00, but MIDI CCs have not been thoroughly QAed.</p>
+
+<h3>UDO Super 6 synthesizer</h3>
+
+<p>Spot-tested and working on firmware v1.4, but MIDI CCs have not been thoroughly QAed.</p>
