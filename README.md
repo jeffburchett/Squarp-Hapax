@@ -13,6 +13,10 @@
 
 <p>Spot-tested and working on firmware 5.1.7.00, but MIDI CCs have not been thoroughly QAed.</p>
 
+<h3>Roland TR-8S Drum Machine</h3>
+
+<p>MIDI implementation has been ported in matching Roland's MIDI implementation chart (available here: https://static.roland.com/assets/media/pdf/TR-8_MIDI_Imple_Chart_e02_W.pdf), but no testing has been performed as of initial upload on 2026-01-21.</p>
+
 <h3>UDO Super 6 synthesizer</h3>
 
 <p>Spot-tested and working on firmware v1.4, but MIDI CCs have not been thoroughly QAed.</p>
