@@ -20,3 +20,7 @@
 <h3>UDO Super 6 synthesizer</h3>
 
 <p>Spot-tested and working on firmware v1.4, but MIDI CCs have not been thoroughly QAed.</p>
+
+<h3>Yamaha Montage M</h3>
+
+<p>MIDI and NRPM implementation has been ported in matching Yamaha's data file (available here: https://usa.yamaha.com/files/download/other_assets/7/2172427/MONTAGE-M_data_list_En_H0.pdf), but no testing has been performed as of initial upload on 2026-01-21.</p>
